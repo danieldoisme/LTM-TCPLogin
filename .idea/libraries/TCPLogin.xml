@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TCPLogin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/TCPLogin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
